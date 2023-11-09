@@ -1,0 +1,14 @@
+# Troquer Fashion web scraped data 
+
+## About the website
+
+**Troquer Fashion** is an online, designer-consigned store established at the forefront of the revolution in upscale consignment shopping. Founded on July 19, 2012, in Mexico, Troquer has deftly positioned itself at the intersection of luxury and sustainability. While its business model is very internet-era, the company is not publicly traded and does not have a symbol, IPO date, or market cap. Its founding principle is to provide an online platform where users can buy and sell pre-owned luxury goods with a high standard of quality control, thereby promoting the smart consumption of fashion. Much more information about Troquer Fashion history and business insights can be found on its [website](https://troquer.com.mx/). As of the time of writing, there are no Wikipedia or Bloomberg pages available for Troquer Fashion.
+
+Troquer Fashion operates in an increasingly competitive industry, with companies such as [The RealReal](https://www.therealreal.com/), [Vestiaire Collective](https://us.vestiairecollective.com/), and [Poshmark](https://poshmark.com/) being among its prominent competitors. The RealReal, for example, also provides a marketplace for authenticated, consigned luxury goods, positioning itself as the leader in an evolving market. Similarly, Vestiaire Collective, which was founded in 2009 in France, has earned its name in the industry by offering a careful curation of pre-owned luxury items. While The RealReal is listed on NASDAQ under the ticker symbol [REAL](https://www.bloomberg.com/quote/REAL:US), neither Vestiaire Collective nor Poshmark are currently publicly traded. For more information about these companies, refer to their Wikipedia pages: [The RealReal](https://en.wikipedia.org/wiki/The_RealReal), [Vestiaire Collective](https://en.wikipedia.org/wiki/Vestiaire_Collective), and [Poshmark](https://en.wikipedia.org/wiki/Poshmark).
+
+Web scraped data is crucial for Troquer Fashions strategy and operation. Firstly, it can help the company monitor and compare prices with its main competitors, thereby optimizing its own pricing strategy. For instance, by analyzing data on discounts, Troquer Fashion can more efficiently tailor its promotional activities to match or outperform those of its competition. Secondly, web scraping can provide valuable insights into consumer trends and preferences, enabling Troquer to focus on the products and brands that are most coveted. Finally, this data could be used for attracting potential paid partnerships for the company. Based on the most popular brands among its customers, Troquer could strive to forge partnerships with these brands to diversify its revenue stream and enhance its success rate.
+
+
+## Link to **dataset**
+
+[Troquer Fashion dataset](https://www.databoutique.com/buy-data-list-subset/Troquer%20Fashion%20web%20scraped%20data/r/receeqP3DaWfIOALT)
